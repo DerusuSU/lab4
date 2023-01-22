@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<k_items>
+
+    
+    <k_item><id>2</id><name>Кактус 1</name><price>10000</price><description>Очень хороший кактус</description></k_item>
+    <k_item><id>3</id><name>Кактус 2</name><price>3888</price><description>Кактус, тоже хороший, но не совсем</description></k_item><k_item><id>5</id><name>Два кактуса</name><price>13888</price><description>ДВа кактуса очень хорошо</description></k_item></k_items>
